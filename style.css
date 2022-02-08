@@ -1,0 +1,18 @@
+h1 {
+    display: block;
+}
+h2 {
+    display: block;
+}
+body {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#customer-card {
+    
+}
+
+.customer-image {
+
+}

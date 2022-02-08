@@ -1,3 +1,5 @@
+console.log('hellooo im working!')
+
 const customers = [
   {
     name: {
